@@ -11,12 +11,76 @@
     "dark": "https://bleh.rest/logo.png"
   },
   "favicon": "https://bleh.rest/logo.png",
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "overview/introduction"
-      ]
-    }
-  ]
+  "navigation": {
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": [
+          "overview/introduction"
+        ]
+      },
+      {
+        "group": "Security",
+        "pages": [
+          "security/antinuke",
+          "security/join-gate",
+          "security/moderation",
+          "security/auto-moderation",
+          "security/fake-permissions"
+        ]
+      },
+      {
+        "group": "Server",
+        "pages": [
+          "server/roles",
+          "server/logging",
+          "server/starboard",
+          "server/voicemaster",
+          "server/level",
+          "server/bump",
+          "server/reaction",
+          "server/aliases",
+          "server/messages"
+        ]
+      },
+      {
+        "group": "Misc",
+        "pages": [
+          "miscellaneous/music",
+          "miscellaneous/tickets",
+          "miscellaneous/counters",
+          "miscellaneous/webhook",
+          "miscellaneous/giveaway",
+          "miscellaneous/invite-tracker"
+        ]
+      },
+      {
+        "group": "Economy",
+        "pages": [
+          "economy/general",
+          "business",
+          "laboratory",
+          "company",
+          "cards",
+          "games"
+        ]
+      },
+      {
+        "group": "Resources",
+        "pages": [
+          "resources/syntax",
+          "resources/scripting",
+          "resources/permissions",
+          "resources/punishments"
+        ]
+      },
+      {
+        "group": "Support",
+        "pages": [
+          "common-issues/ios-dash",
+          "common-issues/server-removal"
+        ]
+      }
+    ]
+  }
 }
