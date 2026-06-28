@@ -1,0 +1,23 @@
+{
+  "name": "Bleh",
+  "colors": {
+    "primary": "#0c3175",
+    "light": "#0c3175",
+    "dark": "#0c3175"
+  },
+  "logo": {
+    "light": "https://bleh.rest/logo.png",
+    "dark": "https://bleh.rest/logo.png"
+  },
+  "favicon": "https://bleh.rest/logo.png",
+  "topbarCta": {
+    "name": "Dashboard",
+    "url": "https://bleh.rest"
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "https://discord.gg/bleh"
+    }
+  ]
+}
